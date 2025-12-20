@@ -1,4 +1,6 @@
-## Hi there 👋
+#disha-17
+This is my first Git Repository.
+Author - Disha M B
 
 <!--
 **disha-17/disha-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
