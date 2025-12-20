@@ -1,4 +1,3 @@
-#disha-17
 This is my first Git Repository.
 Author - Disha M B
 
